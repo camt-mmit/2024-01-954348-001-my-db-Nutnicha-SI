@@ -118,3 +118,12 @@ nav ul {
     color: #fff; /* สีตัวอักษรเมื่อชี้เมาส์ */
     border-bottom: 2px solid #fff; /* สีเส้นใต้เมื่อชี้เมาส์ */
 }
+.shop-link {
+    color: rgb(57, 99, 224); /* สีฟ้า */
+    font-weight: bold; /* ตัวหนา */
+    text-decoration: none; /* ไม่มีเส้นใต้ */
+}
+
+.shop-link:hover {
+    text-decoration: underline; /* เส้นใต้เมื่อชี้ */
+}
